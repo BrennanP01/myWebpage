@@ -24,14 +24,6 @@ h4 {
     color: #777469;
 }
 
-header {
-
-}
-
-footer {
-
-}
-
 ul {
 
     list-style-type: square;
@@ -49,6 +41,7 @@ a {
 
 hr {
     background-color: #B80C00;
+    height: 2px;
     color: #B80C00;
     width: 80%;
 }
