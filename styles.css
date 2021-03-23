@@ -1,0 +1,53 @@
+body {
+    background-color: #141414;
+}
+
+p {
+    margin-left: 5%;
+    color: #777469;
+}
+
+h1 {
+    margin-left: 15%;
+    margin-right: 15%;
+    color: #777469;
+}
+
+h2 {
+    margin-right: 15%;
+    margin-left: 15%;
+    color: #777469;
+}
+
+h4 {
+
+    color: #777469;
+}
+
+header {
+
+}
+
+footer {
+
+}
+
+ul {
+
+    list-style-type: square;
+    margin-left: 5%;
+    color: #777469;
+}
+
+li::marker {
+    color: #B80C00;
+}
+
+a {
+    color: #B80C00;
+}
+
+hr {
+    color: #B80C00;
+    width: 80%;
+}
